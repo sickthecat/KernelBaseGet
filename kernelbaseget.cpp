@@ -1,5 +1,7 @@
 /*
 Reading: https://github.com/FULLSHADE/Win10InfoLeaks
+Reading: https://twitter.com/33y0re/status/1278104088090116097?lang=en
+Reading: https://connormcgarr.github.io/swimming-in-the-kernel-pool-part-1/
 It says medium integrity, but even with an admin account it was pissing mew off.. 
 so I reused some code from a previous project.
 I don't actually know if this is gonna work right... 
